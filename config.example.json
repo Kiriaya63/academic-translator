@@ -1,0 +1,9 @@
+{
+  "deepl_api_key": "在此填入你的 DeepL API key",
+  "deepl_endpoint": "free",
+  "debounce_ms": 500,
+  "left_source_lang": "ZH",
+  "left_target_lang": "EN-US",
+  "right_source_lang": "EN",
+  "right_target_lang": "ZH"
+}
